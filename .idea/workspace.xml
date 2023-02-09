@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="954778cb-a4c4-46f9-8da8-0294b589d8a4" name="Changes" comment="" />
+    <list default="true" id="954778cb-a4c4-46f9-8da8-0294b589d8a4" name="Changes" comment="Even">
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/Principlerat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/arms_strong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/armsmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/armstrongg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/curreency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/fibonac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/greater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/palindrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture1_Firstjava/EvenorADD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1_Firstjava/EvenorADD.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LSdps7jsBq9zT9QWM8msf27obh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +50,82 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.armsmethod">
+    <configuration name="arms_strong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture1_Firstjava.arms_strong" />
+      <module name="Java Assignmen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture1_Firstjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="armsmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture1_Firstjava.armsmethod" />
+      <module name="Java Assignmen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture1_Firstjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="armstrongg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture1_Firstjava.armstrongg" />
+      <module name="Java Assignmen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture1_Firstjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture1_Firstjava.fibonac" />
+      <module name="Java Assignmen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture1_Firstjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture1_Firstjava.palindrop" />
+      <module name="Java Assignmen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture1_Firstjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.armsmethod" />
+        <item itemvalue="Application.arms_strong" />
+        <item itemvalue="Application.armstrongg" />
+        <item itemvalue="Application.palindrop" />
+        <item itemvalue="Application.fibonac" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675868604739</updated>
     </task>
+    <task id="LOCAL-00001" summary="Even">
+      <created>1675868651212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675868651212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -43,5 +155,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Even" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even" />
   </component>
 </project>
